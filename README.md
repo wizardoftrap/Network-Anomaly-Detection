@@ -51,7 +51,6 @@ The **NSL-KDD** dataset is a cleaned and balanced version of the KDD Cup 1999 da
 - Accuracy
 - Precision, Recall, F1-Score
 - Confusion Matrix
-- ROC-AUC (for binary)
 
 ---
 
@@ -71,16 +70,16 @@ The **NSL-KDD** dataset is a cleaned and balanced version of the KDD Cup 1999 da
 
 - Robust detection of anomalies under both binary and multi-class settings.
 - Reduced overfitting and improved generalization using Random Forests.
-- Ability to distinguish among attack categories, not just binary anomaly detection.
-Validation Set Evaluation:
-Accuracy: 0.9950
-Precision: 0.9949
-Recall: 0.9950
-F1-Score: 0.9949
-![Confusion Matrix for Validation set](validation.png)
-Test Set Evaluation:
-Accuracy: 0.9949
-Precision: 0.9947
-Recall: 0.9949
-F1-Score: 0.9947
+- Ability to distinguish among attack categories, not just binary anomaly detection.<br>
+Validation Set Evaluation:<br>
+-Accuracy: 0.9950
+-Precision: 0.9949
+-Recall: 0.9950
+-F1-Score: 0.9949<br>
+![Confusion Matrix for Validation set](validation.png)<br>
+Test Set Evaluation:<br>
+-Accuracy: 0.9949
+-Precision: 0.9947
+-Recall: 0.9949
+-F1-Score: 0.9947
 ![Confusion Matrix for Test set](test.png)
