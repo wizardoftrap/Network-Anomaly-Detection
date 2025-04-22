@@ -72,14 +72,14 @@ The **NSL-KDD** dataset is a cleaned and balanced version of the KDD Cup 1999 da
 - Reduced overfitting and improved generalization using Random Forests.
 - Ability to distinguish among attack categories, not just binary anomaly detection.<br>
 **Validation Set Evaluation:** <br>
--Accuracy: 0.9950
--Precision: 0.9949
--Recall: 0.9950
+-Accuracy: 0.9950<br>
+-Precision: 0.9949<br>
+-Recall: 0.9950<br>
 -F1-Score: 0.9949<br>
 ![Confusion Matrix for Validation set](validation.png)<br>
 **Test Set Evaluation:** <br>
--Accuracy: 0.9949
--Precision: 0.9947
--Recall: 0.9949
+-Accuracy: 0.9949<br>
+-Precision: 0.9947<br>
+-Recall: 0.9949<br>
 -F1-Score: 0.9947<br>
 ![Confusion Matrix for Test set](test.png)
